@@ -4,7 +4,7 @@
   "description": "API para dados de jogadores de futebol",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node backend/server.js",
     "dev": "nodemon server.js",
     "test": "jest --watchAll",
     "deploy": "netlify deploy --prod",
