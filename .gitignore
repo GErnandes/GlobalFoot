@@ -1,0 +1,13 @@
+# Ignorar node_modules
+node_modules/
+
+# Arquivos de ambiente
+.env
+
+# Configuração de build/deploy
+dist/
+build/
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
